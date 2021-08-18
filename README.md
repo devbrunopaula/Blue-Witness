@@ -5,16 +5,25 @@ You can find the deployed project at [Human Rights First - Blue Witness](https:/
 ## Most Recent Contributors
 
 Feel free to reach out if you have any questions about the repo.
-
-|[Jaison Alonso](https://github.com/abe-one)|[Francis Nguyen](https://github.com/francishtknguyen)|[Justin Peczenij](https://github.com/justinpeczenij)|||
-| :-: | :-: | :-: | :-: | :-: |
-|        [<img src="https://avatars.githubusercontent.com/u/77995299?v=4" width = "200" />](https://github.com/)         |             [<img src="https://avatars.githubusercontent.com/u/78515635?v=4" width = "200" />](https://github.com/)              |            [<img src="https://avatars.githubusercontent.com/u/78557316?v=4" width = "200" />](https://github.com/)             |
+<!-- 
+|[Bruno Paula](https://github.com/devbrunopaula)|[Francis Nguyen](https://github.com/francishtknguyen)|[Justin Peczenij](https://github.com/justinpeczenij)|||
+|  |
+|        [<img src="https://avatars.githubusercontent.com/u/10413679?v=4" width = "200" />](https://github.com/)         |             [<img src="https://avatars.githubusercontent.com/u/78515635?v=4" width = "200" />](https://github.com/)              |            [<img src="https://avatars.githubusercontent.com/u/78557316?v=4" width = "200" />](https://github.com/)             |
 |                  [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/abe-one)                  |                  [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/francishtknguyen)                   |                  [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/justinpeczenij)                   |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/abeone) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/francishtknguyen) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/justinpeczenij) |
 
-<br>
+<br> -->
+<!-- Copy-paste in your Readme.md file -->
 
-All [Labs Engineering Standards](https://labs.lambdaschool.com/topics/node-js/) must be followed.
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://avatars.githubusercontent.com/u/10413679?v=4" width = "200"/>
+</a>
+
+[Bruno Paula ](https://github.com/devbrunopaula)
+[ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/justinpeczenij) 
+
+
+
 
 ## Project Overview
 
