@@ -11,9 +11,10 @@ Feel free to reach out if you have any questions about the repo.
   <img src = "https://avatars.githubusercontent.com/u/10413679?v=4" width = "200"/>
 </a>
 
-[Bruno Paula ](https://brunopaula.com)
+[Bruno Paula ](https://brunopaula.com) 
 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/bruno-paula/) 
-
+<br>
+Back-End Developer
 + Labs37
 
 
